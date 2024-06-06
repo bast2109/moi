@@ -3,14 +3,28 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# Présentation
+Pourquoi j'écris et pourquoi je le partage ici?
 
-Yo, 
-me voilà ici, _"mais qui donc parle ?"_ , à vous écrire ces mots qui sont plus tapés de  mes doigts sur un ordinateur qu'écrit, "qu'elle arrogance!". 
-Pourquoi je partage ici, avec vous, qui me lisez "inch'Allah"?
-Car d'abord j'ai en envie. Et ça pourrait suffire. Je n'aurais pas besoin d'autres raisons. 
-Mais je vais quand même continuer "parce que c'est moi le patron ici", pour surtout, je crois, plutôt me convaincre à moi-même que c'est la plus juste action que je puisse entreprendre pour être heureux.
-C'est-à-dire que j'imagine qu'à travers ce blog, car je le vois plus comme un blog que comme un site web, je me lâche le plus possible sur l'échange avec l'humain. C'est pour ça que de partager via un canal planétaire (internet) je m'imagine pouvoir contacter qui le souhaite à l'échelle de la planète. 
-Mes buts, mes attentes, mes désirs, les voici: 
-Je veux partager ce que je vis à travers cette existence, me dépouiller de ma personne, c'est à dire avoir tellement partager de mots qu'il n'en reste plus rien à dire. 
-J'ai l'intention d'entreprendre une aventure, que je souhaite retranscrire ici dans la plus grande authenticité possible, épuiser "mes rêves", les désirs que je souhaite vivre ici et maintenant, avant de mourir, dans le but d'arriver au bout et de découvrir ce qu'est un quotidien dans lequel on vit avoir réalisé tous les désirs que l'on souhaitait réaliser. Est-ce possible ? Je ne le sais pas. Vais-je tenter l'expérience? OUI. 
+C'est avant tout pour moi.
+A travers cet acte de partager ce que je vis, je prends le temps d'écouter ce qui je vis à l'intérieur de moi, je prends le temps d'écouter comment ça se manifeste, de comment ça s'exprime à travers des mots, je prends le temps de voir si ça me paraît suffisamment clair pour être lu et je prends le temps de ressentir si ces mots qui sortent sont justes, s'ils correspondent à la vibration, à l'énergie qui émane de mon être.
+Je désire vivre en harmonie avec ce que je suis.
+
+C'est un acte d'amour selon moi.
+Et c'est le premier petit pas le plus simple que je puisse faire chaque jour pour aimer et contribuer à ce que l'amour se répande en moi et tout autour de moi.
+
+J'aime prendre ce temps, de ressentir ce que je vis, de laisser les respirations se faire et de laisser la créativité émerger depuis l'intérieur, sans effort, naturellement, poussée par l'envie d'offrir.
+
+J'aime la beauté. J'aime que les mots qui sortent soient beaux, harmonieux poétiques et je n'ai pas envie que cela soit une condition à mon expression ici.
+Car j'aime aussi que les mots s’expriment aussi dégueulasses qu'ils peuvent l'être parfois. Et j'aime m'atteler à l'exploration de la plus belle expression qui soit.
+
+J'ai envie d'exposer les "monstres", ceux qui sommeillent en moi, les amener à la lumière de l'exposition, sur le plancher de la scène éclairée plein feux par des lecteurs et des lectrices.
+C'est ma contribution. Pour l'art. Pour le jeu. Pour la simplicité. Pour l'amour.
+
+Car j'ai envie de voir plus de situations d'amour que ce que je vis actuellement et quoi de mieux que de commencer par soi-même.
+
+Il me semble avoir tout dit sur ce sujet pour le moment.
+Si vous voyez d'autres choses à dire, je vous en prie, écrivez.
+
+Je vous souhaite une émouvante lecture.
+
+<a href="https://www.cnrtl.fr/etymologie/%C3%A9mouvant//1">Émouvoir Étymologie</a> : « mettre en mouvement » 
