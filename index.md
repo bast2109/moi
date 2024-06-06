@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-Pourquoi j'écris et pourquoi je le partage ici?
+<title>Pourquoi j'écris et pourquoi je le partage ici?</title>
 
 C'est avant tout pour moi.
 A travers cet acte de partager ce que je vis, je prends le temps d'écouter ce qui je vis à l'intérieur de moi, je prends le temps d'écouter comment ça se manifeste, de comment ça s'exprime à travers des mots, je prends le temps de voir si ça me paraît suffisamment clair pour être lu et je prends le temps de ressentir si ces mots qui sortent sont justes, s'ils correspondent à la vibration, à l'énergie qui émane de mon être.
